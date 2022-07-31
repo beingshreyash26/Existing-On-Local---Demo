@@ -1,3 +1,4 @@
+
 **** Indies favourites merged from the Indies branch ****
 
 --- Indies Favourties ---
@@ -6,3 +7,13 @@
 2. Faasle
 3. Nasamajh
 4. Samjho Na
+
+**** Pop favourites merged from the Pop branch ****
+
+--- Pop Favourties ---
+
+1. Moth to a flame
+2. Blinded by the Lights
+3. Sacrifices
+4. The Hills
+
